@@ -1,0 +1,10 @@
+.deckLayout {
+    display: flex;
+    flex-direction: column;
+}
+
+.deckContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
